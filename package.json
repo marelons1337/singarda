@@ -1,0 +1,24 @@
+{
+  "name": "singarda",
+  "version": "1.0.0",
+  "description": "Singarda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marelons1337/singarda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marelons1337/singarda/issues"
+  },
+  "homepage": "https://github.com/marelons1337/singarda#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1",
+    "node-sass": "^5.0.0"
+  }
+}
